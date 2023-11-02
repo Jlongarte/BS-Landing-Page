@@ -1,0 +1,41 @@
+.bg-secondary {
+    background: rgb(235, 183, 87)!important;
+    
+}
+.bg-primary {
+    background-color: orange!important;
+    width: 46%;
+    
+}
+
+a {
+    padding-bottom: 200px;
+    text-decoration: none;
+    color: pink;
+    text-transform: uppercase;
+    font-weight: 2.5rem!important;
+    font-weight: 600;
+    
+}
+
+
+.desserts {
+    background: url('Captura\ de\ pantalla\ 2023-11-01\ 122301.png');
+    background-repeat: no-repeat;
+    background-position: bottom right;
+    background-size: contain;
+}
+
+.btn_primary {
+    background-color: rgb(221, 218, 31)!important;
+}
+
+.btn-secondary{
+    
+    background-color: rgb(221, 218, 31)!important;
+    border: none;
+}
+
+
+
+
